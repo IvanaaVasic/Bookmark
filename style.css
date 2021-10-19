@@ -25,6 +25,9 @@ html {
   height: auto;
   position: relative;
 }
+html {
+  scroll-behavior: smooth;
+}
 :root {
   --black-text: #242a45;
   --coral-button-color: #fa5959;
